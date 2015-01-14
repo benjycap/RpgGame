@@ -1,0 +1,2 @@
+C:\Users\Ben\Documents\SVN\EyesOfTheDragon\EyesOfTheDragonContent\obj\x86\Debug\RpgGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\SVN\RpgGame\RpgGameContent\obj\x86\Debug\RpgGameContent.contentprojResolveAssemblyReference.cache

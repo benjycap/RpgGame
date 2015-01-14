@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragonContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\RPG Project\trunk\EyesOfTheDragon\EyesOfTheDragonContent\obj\x86\Debug\EyesOfTheDragonContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\SVN\EyesOfTheDragon\EyesOfTheDragonContent\obj\x86\Debug\EyesOfTheDragonContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Documents\RPG Project\code\EyesOfTheDragon\EyesOfTheDragonContent\obj\x86\Debug\EyesOfTheDragonContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Documents\RPG Project\shopkeeper&customer almost done, nothing else\code\EyesOfTheDragon\EyesOfTheDragonContent\obj\x86\Debug\EyesOfTheDragonContent.contentprojResolveAssemblyReference.cache

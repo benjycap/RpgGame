@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <NPC type = "Shopkeeper">
+    <State name="Babysitting">
+      <Transition>Idling</Transition>
+    </State>
+    <State name="Idling">
+      <Transition>Babysitting</Transition>
+      <Transition>Patrolling</Transition>
+      <Transition>Sleeping</Transition>
+    </State>
+    <State name="Patrolling">
+      <Transition>Idling</Transition>
+      <Transition>Serving</Transition>
+    </State>
+    <State name ="Serving">
+      <Transition>Idling</Transition>
+    </State>
+    <State name="Sleeping">
+      <Transition>Idling</Transition>
+    </State>
+  </NPC>
+  <NPC type="Customer">
+    <State name="AtCounter">
+      <Transition>Chasing</Transition>
+      <Transition>Outside</Transition>
+    </State>
+    <State name="Chasing">
+      <Transition>AtCounter</Transition>
+    </State>
+    <State name="Outside">
+      <Transition>AtCounter</Transition>
+    </State>
+  </NPC>
+  <NPC type="Child">
+    <State name="Caught">
+      <Transition>Exit</Transition>
+    </State>
+    <State name="Enter">
+      <Transition>Playing</Transition>
+    </State>
+    <State name="Exit">
+      <Transition>Enter</Transition>
+    </State>
+    <State name="Playing">
+      <Transition>Caught</Transition>
+    </State>
+  </NPC>
+  <NPC type="Thief">
+    <State name="Outside">
+      <Transition>Thieving</Transition>
+    </State>
+    <State name="Thieving">
+      <Transition>Outside</Transition>
+      <Transition>Caught</Transition>
+    </State>
+    <State name="Caught">
+      <Transition>Outside</Transition>
+    </State>
+  </NPC>
+</Data>
